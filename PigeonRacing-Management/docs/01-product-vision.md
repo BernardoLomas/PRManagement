@@ -1,4 +1,4 @@
-## 01 - Product vision - Pigeon Racing Management System (PRMS) - English version
+## 01 - Product vision - Pigeon Racing Management System (PRMS)
 
 1. What problem does this system solve?
    In Brazil, especially in the state of Minas Gerais, many pigeon breeders still rely on paper notes, spreadsheets, or memory to manage their dovecotes. There is a lack of accessible, modern, and localized software to organize breeding, records, and general management activies. The Pigeon Racing Management System (PRMS) exists to professionalize and centralize the management of pigeon racing operations, making them more efficient, realiable, and organized.
